@@ -31,10 +31,10 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-6">{t('footer_quick_links')}</h4>
             <ul className="space-y-3 text-slate-300 text-sm">
-              <li><a href="/" className="hover:text-brand-light transition-colors">{t('nav_home')}</a></li>
+              <li><a href="/" className="hover:text-brand-light transition-colors">{t('nav_portfolio')}</a></li>
+              <li><a href="/home" className="hover:text-brand-light transition-colors">{t('nav_home')}</a></li>
               <li><a href="/about" className="hover:text-brand-light transition-colors">{t('nav_about')}</a></li>
               <li><a href="/services" className="hover:text-brand-light transition-colors">{t('nav_services')}</a></li>
-              <li><a href="/portfolio" className="hover:text-brand-light transition-colors">{t('nav_portfolio')}</a></li>
               <li><a href="/testimonials" className="hover:text-brand-light transition-colors">{t('nav_testimonials')}</a></li>
             </ul>
           </div>

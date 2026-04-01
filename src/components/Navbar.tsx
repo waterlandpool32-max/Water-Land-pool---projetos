@@ -20,10 +20,10 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { name: t('nav_home'), path: '/' },
+    { name: t('nav_portfolio'), path: '/' },
+    { name: t('nav_home'), path: '/home' },
     { name: t('nav_about'), path: '/about' },
     { name: t('nav_services'), path: '/services' },
-    { name: t('nav_portfolio'), path: '/portfolio' },
     { name: t('nav_testimonials'), path: '/testimonials' },
     { name: t('nav_contact'), path: '/contact' },
   ];
