@@ -27,14 +27,7 @@ export const serviceData: Record<string, Service> = {
       'Anyone concerned about potential hidden leaks'
     ],
     whyUs: 'With over 20 years of experience, Waterland Pool\'s provides reliable pool leak detection services with attention to detail and accurate diagnostics. We focus on identifying the real source of the problem, helping you avoid unnecessary repairs.',
-    gallery: [
-      'https://drive.google.com/thumbnail?id=1G7cNrCeeCyS7WlBBGOjEPa_ycuOiaiZv&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1fOKSrZuKWVdWm3MKffp4dCBdbp4bfMtD&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1r2XujnOVh90ml5d0G705wCNXmC2GNe5J&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1SyvF6TCu_M0WG0q2Feoejhx3QfTUndyE&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1kABm3MMr9-bgSjX-MOs6qzRvaYdGvagH&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1UQuD7pnkS0zvvRkzCeMnmHPz4EYrHkfX&sz=w1000'
-    ]
+    gallery: []
   },
   'cleaning': {
     title: 'Pool Cleaning & Maintenance in Central Florida',
@@ -55,12 +48,7 @@ export const serviceData: Record<string, Service> = {
       'Property owners who want to protect their investment'
     ],
     whyUs: 'With over 20 years of experience, Waterland Pool\'s provides weekly pool cleaning and maintenance service tailored to each pool. We don’t just clean your pool — we maintain it with care, consistency, and attention to detail.',
-    gallery: [
-      'https://drive.google.com/thumbnail?id=1vOxH1hX4H3WGh1zKDUC5H31yxd6m3BFt&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1BA1yz9fr_OEp9drsS4_P1eCaAiRW55Ls&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1Dw0k3t9e1fs76A3SGHtLovnpIoyeheFF&sz=w1000',
-      'https://drive.google.com/thumbnail?id=11mlnSFtqrh2A5YqqSqW_sJI8NcFtC7nB&sz=w1000'
-    ]
+    gallery: []
   },
   'renovations': {
     title: 'Pool & Deck Renovation in Central Florida',
@@ -157,15 +145,7 @@ export const serviceData: Record<string, Service> = {
       'Clients looking to protect their investment'
     ],
     whyUs: 'With over 20 years of experience, Waterland Pool\'s delivers professional paver sealing services with attention to detail and high-quality materials.',
-    gallery: [
-      'https://drive.google.com/thumbnail?id=1k4HgGZbEulyla1j4mfgR8wfOodZ4bBMu&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1jySjSad9WquGUZYsduF-Ix9j17_r2HeM&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1yTjcYUYi765bzkdTeJRt6qWen3_qgrFg&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1cqzekuspmO1m-XpleZWEVyEdAssZf1Pu&sz=w1000',
-      'https://drive.google.com/thumbnail?id=189PF87c_rU5CWUKzggHFtVYgSSuz47-g&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1_kJBKGFkgWvIU5rb7TuYfkGkp1DHXs57&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1GmL1hVyjHK4sRhQlb2X6_49BRpHRx8EB&sz=w1000'
-    ]
+    gallery: []
   },
   'acid-wash': {
     title: 'Acid Wash & Deep Pool Cleaning in Central Florida',
@@ -219,13 +199,6 @@ export const serviceData: Record<string, Service> = {
       'Homeowners interested in improving efficiency'
     ],
     whyUs: 'With over 20 years of experience, Waterland Pool\'s delivers pool automation and control system solutions with precision and attention to detail.',
-    gallery: [
-      'https://drive.google.com/thumbnail?id=1IQjR_cl3jmU1G3iBo672fvS_ULRb1kns&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1_hbsX3Yd8PO3sUfaXY2BciS9oXk-7b-n&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1NxWCNNa_clXJ6UnyYOhvfnk-xXGi1JeF&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1J70R9zxeydHoUUw4Pvdvbcy4NjynTEqa&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1K81_Eblq-4pDioKrnhD5Gt7Y-azPxaV8&sz=w1000',
-      'https://drive.google.com/thumbnail?id=1OOICpmawi2SMmKXo-f0YxYV4_PKGbwJh&sz=w1000'
-    ]
+    gallery: []
   }
 };
